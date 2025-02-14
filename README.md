@@ -15,16 +15,16 @@ _A simple React Three Fiber + Vite starter with an import-ready CodeSandbox conf
 ### Installation
 
 ```
-npm install
+pn install
 ```
 
 ### Scripts
 
 ```
-npm run dev
-npm run build
-npm run preview
-npm run sandbox
+pn run dev
+pn run build
+pn run preview
+pn run sandbox
 ```
 ### CodeSandbox
 To create a sandbox from this starter, [import your repository URL](https://codesandbox.io/dashboard/repositories) (this repo works too), or [fork this template](https://codesandbox.io/s/react-three-fiber-vite-starter-r1tgld).
